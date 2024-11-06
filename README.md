@@ -1,2 +1,2 @@
-# dataset folder created
+# dataset folder created.
 # appleclassification_code.
